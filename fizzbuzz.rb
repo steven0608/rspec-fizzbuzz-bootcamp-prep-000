@@ -8,4 +8,5 @@ def fizzbuzz(x)
   else
     puts"nil"
   end
+end
 fizzbuzz(3)
