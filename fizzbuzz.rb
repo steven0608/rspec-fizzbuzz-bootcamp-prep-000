@@ -9,4 +9,7 @@ elsif x%3==0
     puts"nil"
   end
 end
+end
+end
+end
 fizzbuzz(4)
